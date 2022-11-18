@@ -6,3 +6,6 @@
 > https://www.fortinet.com/resources/cyberglossary/cia-triad
 > https://www.cybersecuritydive.com/news/security-development-devsecops/604636/
 
+
+
+> only failed exploit attempts will be visible in the logs. If the exploit is successful and the payload is correctly interpreted by the JNDI handler, the payload will execute without making any entry in the logs. As such, a successful exploit will most probably be blind to log inspection.
